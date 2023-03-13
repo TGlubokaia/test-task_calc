@@ -1,5 +1,5 @@
-const DigitsItem: React.FC = () =>  {
-  return ()
+const DigitsItem: React.FC = () => {
+  return <div></div>;
 };
 
 export default DigitsItem;
