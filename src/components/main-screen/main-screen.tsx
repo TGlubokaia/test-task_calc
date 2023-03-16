@@ -1,5 +1,6 @@
+import React from 'react'
 import { Container } from '@mui/material';
-import { styled } from '@mui/material/styles';
+import styled from '@emotion/styled';
 import { DndContext } from '@dnd-kit/core';
 import Sidebar from '../sidebar/sidebar';
 import Canvas from '../canvas/canvas';

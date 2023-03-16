@@ -1,10 +1,11 @@
+import React from 'react'
 import { Box } from '@mui/material';
-import { styled } from '@mui/material/styles';
+import styled from '@emotion/styled';
 
 const CanvasBox = styled(Box)`
   width: 243px;
   height: 480px;
-  background-color: salmon;
+  // background-color: gainsboro;
 `;
 
 const Canvas: React.FC = () => {
